@@ -3,14 +3,26 @@
 <!--
 **jacgordon/jacgordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Javon Gordon 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🏫 About Me
+
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in Elmont, NY → Raised in Elmont, NY/Baldwin, NY → Currently in Baldwin, NY.
+- Outside of work I like to play sports (mainly basketball) & video games
+- Let's connect via email: javoncgordon@gmail.com
+
+## Tech Stack:
+
+### Languages
+
+- Python
+
+### Frameworks & Libraries
+
+- Node.js
+
+### Tools
+
+- Git
+- GitHub
